@@ -76,12 +76,6 @@ function checkECTSubmit() {
 						alert('Укажите тип валюты!');
 						return false;
 					}
-					if (!document.ECTsettingsform.uwc_refid.value) {
-						if(confirm('Зарегистрируйтесь в партнерской программе плагина UWCart\r\nи зарабатывайте до 1200 р. с каждой продажи!')) {
-							window.location.href="http://wpsells.com/links/uwcartstart/uwcart-affiliate.html"
-							return false;
-						}
-					}
 					return true;
 				}
 				else {

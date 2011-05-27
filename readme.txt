@@ -3,7 +3,7 @@ Contributors: uwcart
 Tags: shopping cart, e-commerce, uwcart
 Requires at least: 2.9.2
 Tested up to: 3.1.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 Продажа товаров любого типа и прием оплаты любым известным способом.
 
@@ -70,7 +70,8 @@ N/A
 N/A
 
 == Changelog ==
-N/A
+1.1
+Подкорректированы некоторые изображения и js-скрипты
 
 == Arbitrary section ==
 N/A

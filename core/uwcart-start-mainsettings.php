@@ -230,7 +230,7 @@ class UWCart extends UWPCstart {
 		<div class="wrap">
 		
 		<h2>Ultimate WordPress Cart Start</h2>
-		<div class="updated fade" style="background:#E2EEF8;border-color:#96CEF9;"><p><strong><a href="http://uwcart.ru/" target="_blank">Профессиональная версия плагина UWCart</a></strong></p></div>
+		<div class="updated fade" style="background:#E2EEF8;border-color:#96CEF9;"><p><strong><a href="http://uwcart.ru/" target="_blank">Кликните здесь, чтобы узнать о возможностях профессиональной версии плагина UWCart</a></strong></p></div>
 		<form method="post" name="ECTsettingsform" action="<?php echo $_SERVER['PHP_SELF']; ?>?page=uwpcmainsettings">
 		<table style="width:50%;margin-top:10px;">
 		<tr>

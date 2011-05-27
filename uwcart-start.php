@@ -4,7 +4,7 @@ Plugin Name: Ultimate WordPress Cart Start
 Plugin URI: http://wpsells.com/blog/plugins/150.html
 Description: Продажа товаров любого типа на Вашем блоге. Многоуровневая партнерская программа. Основан на платформе EcommTools.com
 Author: Igor Ocheretny
-Version: 1.0
+Version: 1.1
 Author URI: http://wpsells.com/blog/
 */
 if(preg_match('#' . basename(__FILE__) . '#', $_SERVER['PHP_SELF'])) { die('You are not allowed to call this page directly.'); }
@@ -85,7 +85,7 @@ class UWPCstart {
 		$uwc_plugin_path = WP_PLUGIN_URL . '/' . str_replace(basename(__FILE__), "", plugin_basename(__FILE__));
 		$uwc_plugin_path = ereg_replace("/$", "", $uwc_plugin_path);
 		
-		if(!defined('UWCS_CURRENT_VERSION')) define('UWCS_CURRENT_VERSION', '1.0');
+		if(!defined('UWCS_CURRENT_VERSION')) define('UWCS_CURRENT_VERSION', '1.1');
 
 		if(!defined('UWCS_PLUGIN_DIR')) define('UWCS_PLUGIN_DIR', 'uwcart-start');
 		if(!defined('UWCS_WP_CONTENT_URL')) define('UWCS_WP_CONTENT_URL', get_option('siteurl') . '/wp-content');

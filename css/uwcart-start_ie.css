@@ -1,4 +1,4 @@
-/* для виджета "оформление заказа" */
+/* РґР»СЏ РІРёРґР¶РµС‚Р° "РѕС„РѕСЂРјР»РµРЅРёРµ Р·Р°РєР°Р·Р°" */
 .order_vidget {
 
 }
@@ -19,7 +19,7 @@
 
 }
 
-/* для виджета "вход для партнеров" */
+/* РґР»СЏ РІРёРґР¶РµС‚Р° "РІС…РѕРґ РґР»СЏ РїР°СЂС‚РЅРµСЂРѕРІ" */
 .uwc_partnersform {
 	margin-top:20px;
 	margin-bottom:15px;
@@ -42,7 +42,7 @@
 	text-align:right;
 }
 
-/* для виджета проверки статуса заказа */
+/* РґР»СЏ РІРёРґР¶РµС‚Р° РїСЂРѕРІРµСЂРєРё СЃС‚Р°С‚СѓСЃР° Р·Р°РєР°Р·Р° */
 .uwc_checkorderstatusform {
 	margin-top:20px;
 	margin-bottom:15px;
@@ -61,7 +61,7 @@
 
 }
 
-/* для виджета проверки купона скидки */
+/* РґР»СЏ РІРёРґР¶РµС‚Р° РїСЂРѕРІРµСЂРєРё РєСѓРїРѕРЅР° СЃРєРёРґРєРё */
 .uwc_checkcouponform{
 	margin-top:20px;
 	margin-bottom:15px;
@@ -80,7 +80,7 @@
 
 }
 
-/* для рекламного виджета UWCart с Вашей партнерской ссылкой */
+/* РґР»СЏ СЂРµРєР»Р°РјРЅРѕРіРѕ РІРёРґР¶РµС‚Р° UWCart СЃ Р’Р°С€РµР№ РїР°СЂС‚РЅРµСЂСЃРєРѕР№ СЃСЃС‹Р»РєРѕР№ */
 #uwc_promo_widget_box{
 	margin-top:20px;
 	margin-bottom:15px;
@@ -91,7 +91,7 @@
 
 }
 
-/* для блока кнопки добавления товара в корзину в посте */
+/* РґР»СЏ Р±Р»РѕРєР° РєРЅРѕРїРєРё РґРѕР±Р°РІР»РµРЅРёСЏ С‚РѕРІР°СЂР° РІ РєРѕСЂР·РёРЅСѓ РІ РїРѕСЃС‚Рµ */
 .basket_box_inpost {
 	margin:120px 0 20px;padding:10px;border:0px solid #d9d9d9;float:right;
 }
@@ -115,11 +115,11 @@
 	padding-left:2px;
 }
 
-/* вывод цены в посте */
+/* РІС‹РІРѕРґ С†РµРЅС‹ РІ РїРѕСЃС‚Рµ */
 .price_inpost {
 
 }
-/* текст "Цена" */
+/* С‚РµРєСЃС‚ "Р¦РµРЅР°" */
 .cword_inpost {
 	font-size:16pt;
 	font-weight:bold;
@@ -128,9 +128,8 @@
 	padding:7px 7px 5px;
 	text-align:right;
 	height:33px;
-	/*background:url('http://uwcart.ru/demoblog/wp-content/plugins/uwcart/img/order_buttons/price_inpost_bg.png') no-repeat top right;*/
 }
-/* тип валюты в цене товара в посте */
+/* С‚РёРї РІР°Р»СЋС‚С‹ РІ С†РµРЅРµ С‚РѕРІР°СЂР° РІ РїРѕСЃС‚Рµ */
 .ctype_inpost {
 	font-size:16pt;
 	font-weight:bold;
