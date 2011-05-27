@@ -1,0 +1,140 @@
+/* для виджета "оформление заказа" */
+.order_vidget {
+
+}
+
+.order_vidget_additional_txt {
+
+}
+
+.order_vidget_price {
+	font-size:22px;
+	font-weight:bold;
+	color:#038CF6;
+}
+
+.order_vidget_buy_btn {
+
+}
+
+.order_vidget_order_btn {
+
+}
+
+/* для виджета "вход для партнеров" */
+.uwc_partnersform {
+	margin-top:20px;
+	margin-bottom:15px;
+	padding:0;
+}
+
+.uwc_partnersform td {
+	padding:2px;
+}
+
+.uwc_partnersform input {
+	width:150px;
+}
+
+.uwc_prtn_button input {
+	width:100px;
+}
+
+.uwc_prtn_reminder {
+	text-align:right;
+}
+
+/* для виджета проверки статуса заказа */
+.uwc_checkorderstatusform {
+	margin-top:20px;
+	margin-bottom:15px;
+	padding:0;
+}
+
+.uwc_checkorderstatusform td {
+	padding:2px;
+}
+
+.uwc_checkorderstatusform input {
+
+}
+
+.uwc_checkorderstatus_button input {
+
+}
+
+/* для виджета проверки купона скидки */
+.uwc_checkcouponform{
+	margin-top:20px;
+	margin-bottom:15px;
+	padding:0;
+}
+
+.uwc_checkcouponformtd {
+	padding:2px;
+}
+
+.uwc_checkcouponform input {
+
+}
+
+.uwc_checkcoupon_button input {
+
+}
+
+/* для рекламного виджета UWCart с Вашей партнерской ссылкой */
+#uwc_promo_widget_box{
+	margin-top:20px;
+	margin-bottom:15px;
+	padding:0;
+}
+
+.uwc_promo_widget_img {
+
+}
+
+/* для блока кнопки добавления товара в корзину в посте */
+.basket_box_inpost {
+	margin:120px 0 20px;padding:10px;border:0px solid #d9d9d9;float:right;
+}
+
+.btn_inpost_add_txt {
+	width:100%;
+	padding:3px;
+}
+
+.btn_inpost_add_txt_td {
+	padding:3px;
+}
+
+.basket_btn_inpost_price {
+	font-weight:bold;
+	color:red;
+}
+.basket_btn_inpost_curr {
+	font-weight:bold;
+	color:#212121;
+	padding-left:2px;
+}
+
+/* вывод цены в посте */
+.price_inpost {
+
+}
+/* текст "Цена" */
+.cword_inpost {
+	font-size:16pt;
+	font-weight:bold;
+	color:#3C78A7;
+	margin:10px 10px 20px;
+	padding:7px 7px 5px;
+	text-align:right;
+	height:33px;
+}
+/* тип валюты в цене товара в посте */
+.ctype_inpost {
+	font-size:16pt;
+	font-weight:bold;
+	color:#ccc;
+	padding-left:0px;
+}
