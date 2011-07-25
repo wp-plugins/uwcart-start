@@ -18,11 +18,11 @@ class UWPCstart {
 
 		$this->load_config();
 		
+		$this->textdomain = $this->load_textdomain();
+		
 		if ( !$this->required_version() ) return;
 
 		$this->load_styles();
-		
-		$this->textdomain = $this->load_textdomain();
 		
 		register_activation_hook( __FILE__, array(&$this, 'uwcs_install')); 
 		register_deactivation_hook( __FILE__, array(&$this, 'uwcs_uninstall'));
